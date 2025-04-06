@@ -259,7 +259,6 @@ OPTIMIZE_OUTPUT_JAVA   = NO
 OPTIMIZE_FOR_FORTRAN   = NO
 
 # Set the OPTIMIZE_OUTPUT_VHDL tag to YES if your project consists of VHDL
-# sources. Doxygen will then generate output that is tailored for VHDL.
 # The default value is: NO.
 
 OPTIMIZE_OUTPUT_VHDL   = NO
