@@ -8,7 +8,6 @@
 
 .envrc
 devenv.yaml
-devenv.nix
 .prettierrc.js
 .prettierignore
 .editorconfig
